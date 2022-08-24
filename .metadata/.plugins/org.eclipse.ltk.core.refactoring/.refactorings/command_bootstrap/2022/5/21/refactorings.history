@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.jsp.controller.FileUploadRsolver&apos; to &apos;FileUploadResolver&apos;&#x0D;&#x0A;- Original project: &apos;command_bootstrap&apos;&#x0D;&#x0A;- Original element: &apos;com.jsp.controller.FileUploadRsolver&apos;&#x0D;&#x0A;- Renamed element: &apos;com.jsp.controller.FileUploadResolver&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FileUploadRsolver&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.jsp.controller{FileUploadRsolver.java[FileUploadRsolver" matchStrategy="1" name="FileUploadResolver" qualified="false" references="true" similarDeclarations="false" stamp="1652947639097" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,20 @@
+1654672009504	Rename package 'com.spring.context'
+1654672059143	Rename package 'kr.or.ddit.context'
+1654672132629	Rename package 'kr.or.ddit.properties'
+1654672527912	Rename package 'com.spring.mybatis.config'
+1654673754652	Delete element
+1654674208382	Rename package 'kr.or.ddit'
+1654674213018	Delete element
+1654674415610	Delete element
+1654674938576	Delete element
+1654675989051	Delete element
+1654676848369	Copy compilation unit
+1654733086446	Rename type 'PdsDAO'
+1654733097296	Rename type 'PdsDAOImpl'
+1654733377778	Rename type 'AttachDAO'
+1654733577913	Rename type 'ReplyDAO'
+1654735097599	Rename type 'MenuDAO'
+1654741015784	Delete elements
+1654759993815	Move file
+1654759999709	Delete element
+1654770173514	Delete elements

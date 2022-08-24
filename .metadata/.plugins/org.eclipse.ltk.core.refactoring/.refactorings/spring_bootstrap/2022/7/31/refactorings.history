@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;templates.excel&apos; to &apos;kr.or.ddit.templates.excel&apos;&#x0D;&#x0A;- Original project: &apos;spring_bootstrap&apos;&#x0D;&#x0A;- Original element: &apos;spring_bootstrap/src/main/resources/templates.excel&apos;&#x0D;&#x0A;- Renamed element: &apos;spring_bootstrap/src/main/resources/kr.or.ddit.templates.excel&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;templates.excel&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/resources&lt;templates.excel" name="kr.or.ddit.templates.excel" qualified="false" references="true" stamp="1659009265953" textual="false" version="1.0"/>
+</session>

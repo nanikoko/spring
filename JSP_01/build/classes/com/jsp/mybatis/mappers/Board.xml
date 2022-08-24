@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="Board">
+	<select id="selectBoardList" resultType="board">
+		select bno,title,writer,content,regDate,viewCnt from board
+		order by regDate desc
+	</select>
+	
+	<select id="selectBoardListCount" resultType="int">
+		select count(*) from board
+		order by regDate desc
+	</select>
+</mapper>

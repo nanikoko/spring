@@ -1,0 +1,10 @@
+1652089602064	Rename resource 'board.jsp'
+1652151434433	Delete element
+1652265348191	Copy file
+1652265352498	Delete element
+1652265383531	Rename resource 'board.xml'
+1652265756152	Rename type 'MemberDAO'
+1652265767837	Rename type 'MemberDAOImpl'
+1652265937092	Rename type 'MemberService'
+1652265945018	Rename type 'MemberServiceImpl'
+1652421039936	Move 'el_operation.jsp' to 'WebContent'

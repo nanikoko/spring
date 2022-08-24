@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring_DI"/>
+<aop-project name="spring_mvc"/>
+<aop-project name="spring_redirect"/>
+<aop-project name="spring_scheduler"/>
+<aop-project name="spring_AOP">
+<aspect-definition advice-class-name="com.spring.advice.AdviceBehavior" advice-method-name="chikachika" advice-type="AFTER" aspect-end-line-number="14" aspect-name="advice" aspect-start-line-number="14" factory-id="org.springframework.ide.eclipse.aop.core.beanAspectDefinitionElementFactory" file="/spring_AOP/src/main/resources/application-context.xml" pointcut-expression="execution(public * com.spring.pointcut..¹ä¸Ô±â*(..))" proxy-target-class="false">
+<aop-reference advice-type="AFTER" bean="1:BeansModel|2:spring_AOP|3:src/main/resources/application-context.xml|7:beans:beans:6|8:behavior:8" bean-file="/spring_AOP/src/main/resources/application-context.xml" bean-start-line="8" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/spring_AOP/src/main/resources/application-context.xml" source="=spring_AOP/src\/main\/java&lt;com.spring.advice{AdviceBehavior.java[AdviceBehavior~chikachika" source-start-line="6" target="=spring_AOP/src\/main\/java&lt;com.spring.pointcut{BehaviorImpl.java[BehaviorImpl~¹ä¸Ô±â" target-start-line="16"/>
+</aspect-definition>
+<aspect-definition advice-class-name="com.spring.advice.AdviceBehavior" advice-method-name="chikachika" advice-type="BEFORE" aspect-end-line-number="17" aspect-name="advice" aspect-start-line-number="17" factory-id="org.springframework.ide.eclipse.aop.core.beanAspectDefinitionElementFactory" file="/spring_AOP/src/main/resources/application-context.xml" pointcut-expression="execution(public * com.spring.pointcut..ÀáÀÚ±â*(..))" proxy-target-class="false">
+<aop-reference advice-type="BEFORE" bean="1:BeansModel|2:spring_AOP|3:src/main/resources/application-context.xml|7:beans:beans:6|8:behavior:8" bean-file="/spring_AOP/src/main/resources/application-context.xml" bean-start-line="8" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/spring_AOP/src/main/resources/application-context.xml" source="=spring_AOP/src\/main\/java&lt;com.spring.advice{AdviceBehavior.java[AdviceBehavior~chikachika" source-start-line="6" target="=spring_AOP/src\/main\/java&lt;com.spring.pointcut{BehaviorImpl.java[BehaviorImpl~ÀáÀÚ±â" target-start-line="6"/>
+</aspect-definition>
+<aspect-definition advice-class-name="com.spring.advice.AdviceBehavior" advice-method-name="chikachikaAround" advice-type="AROUND" aspect-end-line-number="20" aspect-name="advice" aspect-start-line-number="20" factory-id="org.springframework.ide.eclipse.aop.core.beanAspectDefinitionElementFactory" file="/spring_AOP/src/main/resources/application-context.xml" pointcut-expression="execution(public * com.spring.pointcut..µ¥ÀÌÆ®*(..))" proxy-target-class="false">
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:spring_AOP|3:src/main/resources/application-context.xml|7:beans:beans:6|8:behavior:8" bean-file="/spring_AOP/src/main/resources/application-context.xml" bean-start-line="8" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/spring_AOP/src/main/resources/application-context.xml" source="=spring_AOP/src\/main\/java&lt;com.spring.advice{AdviceBehavior.java[AdviceBehavior~chikachikaAround~QProceedingJoinPoint;" source-start-line="11" target="=spring_AOP/src\/main\/java&lt;com.spring.pointcut{BehaviorImpl.java[BehaviorImpl~µ¥ÀÌÆ®" target-start-line="21"/>
+</aspect-definition>
+</aop-project>
+<aop-project name="spring_bootstrap"/>
+<aop-project name="DDIT.WebSocket"/>
+<aop-project name="spring_error"/>
+<aop-project name="spring_interceptor"/>
+<aop-project name="spring_security"/>
+<aop-project name="spring_mail"/>
+</aop-reference-model>

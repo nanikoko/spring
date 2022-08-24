@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=command_bootstrap/D:\/A_TeachingMaterial\/08_Framework\/workspace\/command_bootstrap\/WebContent\/WEB-INF\/lib\/mybatis-3.5.0.jar&lt;org.apache.ibatis.session(SqlSessionFactory.class[SqlSessionFactory" modifiers="1537" timestamp="1652082773956"/>
+<typeInfo handle="=command_bootstrap/C:\/Program Files\/Java\/jdk1.8.0_121\/jre\/lib\/rt.jar&lt;com.sun.org.apache.xalan.internal.xsltc.dom(Filter.class[Filter" modifiers="1537" timestamp="1645490726543"/>
+<typeInfo handle="=command_bootstrap/D:\/B_Util\/5.ApacheTomcat\/JSP_Tomcat8\/lib\/servlet-api.jar&lt;javax.servlet(Filter.class[Filter" modifiers="1537" timestamp="1648742728000"/>
+<typeInfo handle="=command_bootstrap/C:\/Program Files\/Java\/jdk1.8.0_121\/jre\/lib\/rt.jar&lt;javax.imageio.spi(ServiceRegistry$Filter.class[Filter" modifiers="1545" timestamp="1645490726543"/>
+<typeInfo handle="=TeamProfile/src&lt;com.jsp.action{Action.java[Action" modifiers="513" timestamp="1654171517670"/>
+<typeInfo handle="=command_bootstrap/src&lt;com.jsp.action{Action.java[Action" modifiers="513" timestamp="1653438914342"/>
+<typeInfo handle="=spring_interceptor/C:\/Users\/PC-18\/.m2\/repository\/org\/springframework\/spring-webmvc\/3.1.1.RELEASE\/spring-webmvc-3.1.1.RELEASE.jar&lt;org.springframework.web.servlet(HandlerInterceptor.class[HandlerInterceptor" modifiers="1537" timestamp="1654582318841"/>
+<typeInfo handle="=spring_interceptor/C:\/Users\/PC-18\/.m2\/repository\/org\/springframework\/spring-webmvc\/3.1.1.RELEASE\/spring-webmvc-3.1.1.RELEASE.jar&lt;org.springframework.web.servlet(HandlerAdapter.class[HandlerAdapter" modifiers="1537" timestamp="1654582318841"/>
+<typeInfo handle="=spring_bootstrap/C:\/Users\/PC-18\/.m2\/repository\/org\/springframework\/spring-webmvc\/4.3.2.RELEASE\/spring-webmvc-4.3.2.RELEASE.jar&lt;org.springframework.web.servlet(HandlerInterceptor.class[HandlerInterceptor" modifiers="1537" timestamp="1654585582547"/>
+<typeInfo handle="=spring_bootstrap/C:\/Users\/PC-18\/.m2\/repository\/org\/springframework\/spring-webmvc\/4.3.2.RELEASE\/spring-webmvc-4.3.2.RELEASE.jar&lt;org.springframework.web.servlet(HandlerAdapter.class[HandlerAdapter" modifiers="1537" timestamp="1654585582547"/>
+<typeInfo handle="=spring_bootstrap/C:\/Users\/PC-18\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/3.2.3.RELEASE\/spring-security-core-3.2.3.RELEASE.jar&lt;org.springframework.security.authentication(AuthenticationProvider.class[AuthenticationProvider" modifiers="1537" timestamp="1655256519346"/>
+<typeInfo handle="=spring_bootstrap/C:\/Users\/PC-18\/.m2\/repository\/org\/springframework\/security\/spring-security-web\/3.2.3.RELEASE\/spring-security-web-3.2.3.RELEASE.jar&lt;org.springframework.security.web.authentication(AuthenticationFailureHandler.class[AuthenticationFailureHandler" modifiers="1537" timestamp="1655256518913"/>
+<typeInfo handle="=spring_bootstrap/C:\/Users\/PC-18\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/3.2.3.RELEASE\/spring-security-core-3.2.3.RELEASE.jar&lt;org.springframework.security.core.userdetails(UserDetails.class[UserDetails" modifiers="1537" timestamp="1655256519346"/>
+<typeInfo handle="=spring_bootstrap/C:\/Program Files\/Java\/jdk1.8.0_121\/jre\/lib\/rt.jar&lt;org.w3c.dom(UserDataHandler.class[UserDataHandler" modifiers="1537" timestamp="1645490726543"/>
+<typeInfo handle="=spring_bootstrap/C:\/Users\/PC-18\/.m2\/repository\/org\/springframework\/spring-webmvc\/4.3.2.RELEASE\/spring-webmvc-4.3.2.RELEASE.jar&lt;org.springframework.web.servlet(View.class[View" modifiers="1537" timestamp="1654585582547"/>
+</typeInfoHistroy>
